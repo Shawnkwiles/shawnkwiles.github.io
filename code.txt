@@ -1,0 +1,16 @@
+
+    
+<div id="wrapper">
+    <div id="column_container">
+        <div id="column1"><img src="../Mysite/images/2.png" alt="Night Beast">
+        <br>
+        <img src="../Mysite/images/3.jpg" alt="old man">
+        <br>
+        <img src="../Mysite/images/6.jpg" alt="alien">
+        
+        
+        </div>
+
+        <div id="column2"><img src="../Mysite/images/4.jpg" alt="beyond human"></div>
+    </div>
+</div>
